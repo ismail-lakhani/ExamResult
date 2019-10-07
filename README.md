@@ -1,2 +1,2 @@
 # ExamResult
-Development of an application to collect exam result information for each student sitting exams.
+Development of an application to collect exam result information for each student sitting exams.The application allows the user to enter the name, ID number and exam results (which lie in the range of 0- 100) for each student. The student population is made up of both undergraduate and postgraduate students and students are each required to sit 3 exams. The calculation of a pass mark differs for both undergraduate and postgraduate students. Undergraduate Students pass if the average mark of their 3 exam results is greater than or equal to 40. Postgraduate students pass if the average mark over the 3 exams is 50 or above.
